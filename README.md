@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=leandro-niero.com&style=for-the-badge&url=https%3A%2F%2Fleandro-niero.com)](https://www.leandro-niero.com)
 [![GitHub](https://img.shields.io/github/followers/leniero?label=follow&style=social)](https://www.github.com/leniero)
 
-I'm a Brazilian/Italian developer and designer, creatively merging my expertise in computational arts with robust software development to craft engaging digital experiences.
+I'm a Brazilian/Italian developer and designer, creatively merging arts with software development to craft engaging digital experiences.
 
 👨‍💻 **Currently working on:**
 - [ANDROMEDA](https://github.com/leniero/Andromeda), a web app that captures and visualises emotional states with a unique eCloud interface.
@@ -20,7 +20,7 @@ I'm a Brazilian/Italian developer and designer, creatively merging my expertise 
 - **AI & Machine Learning**: Stable Diffusion, DreamBooth, Hugging Face's Diffusers library
 - **Tools**: Adobe Creative Suite, Figma, Arduino, Git
 
-🌱 **I'm learning:** More about AI and machine learning to further enhance my computational art and web development projects.
+🌱 **I'm learning:** More about AI and machine learning to further enhance my computational art and software development projects.
 
 💬 **Ask me about:** Computational art, full-stack development, and anything that blends technology with creativity.
 
