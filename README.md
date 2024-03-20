@@ -6,8 +6,8 @@
 I'm a Brazilian/Italian developer and designer based in London. I combine arts with software development to craft engaging digital experiences.
 
 👨‍💻 **Currently working on:**
-- [ANDROMEDA](https://github.com/leniero/Andromeda), a web app that captures and visualises emotional states with a unique eCloud interface.
-- [GMAG](https://www.leandro-niero.com/pages/gmag.html), an AI-powered art project that preserves and revamps the aesthetics of Brazilian queer history.
+- [ANDROMEDA](https://github.com/leniero/Andromeda), a web app that captures and visualises emotional states.
+- [GMAG](https://www.leandro-niero.com/pages/gmag.html), an AI-powered art project that preserves and reinterprets Brazilian queer history.
 
 🎓 **Education:**
 - MA in Computational Arts from Goldsmiths University of London
@@ -16,8 +16,8 @@ I'm a Brazilian/Italian developer and designer based in London. I combine arts w
 
 🔧 **Skills & Technologies:**
 - **Languages**: C, C++, Python, Java, Ruby
-- **Web Development**: HTML, CSS, JavaScript, Django
-- **AI & Machine Learning**: Stable Diffusion, DreamBooth, Hugging Face's Diffusers library
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap,  Django
+- **AI & Machine Learning**: Local Stable Diffusion, DreamBooth model training, Hugging Face's Diffusers library
 - **Tools**: Adobe Creative Suite, Figma, Arduino, Git
 
 🌱 **I'm learning:** More about AI and machine learning to further enhance my computational art and software development projects.
