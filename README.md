@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=leandro-niero.com&style=for-the-badge&url=https%3A%2F%2Fleandro-niero.com)](https://www.leandro-niero.com)
 [![GitHub](https://img.shields.io/github/followers/leniero?label=follow&style=social)](https://www.github.com/leniero)
 
-I'm a Brazilian/Italian developer and designer, creatively merging arts with software development to craft engaging digital experiences.
+I'm a Brazilian/Italian developer and designer based in London. I combine arts with software development to craft engaging digital experiences.
 
 👨‍💻 **Currently working on:**
 - [ANDROMEDA](https://github.com/leniero/Andromeda), a web app that captures and visualises emotional states with a unique eCloud interface.
