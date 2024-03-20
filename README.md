@@ -28,5 +28,5 @@ I'm a Brazilian/Italian developer and designer based in London. I combine arts w
 - Email: hello@leandro-niero.com
 - LinkedIn: [leandroniero](https://www.linkedin.com/in/leandroniero)
 
-📄 **Fun fact:** I'm an avid enthusiast of sci-fi, experimental leftfield techno music, Queer Theory and some gaming.
+📄 **Fun fact:** I'm an avid enthusiast of sci-fi, experimental leftfield techno music, Queer Theory and AAA games.
 
