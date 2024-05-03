@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Leandro Niero (he/they)!
+# Hi there 👋, I'm Leandro (he/they)!
 
 [![Website](https://img.shields.io/website?label=leandro-niero.com&style=for-the-badge&url=https%3A%2F%2Fleandro-niero.com)](https://www.leandro-niero.com)
 [![GitHub](https://img.shields.io/github/followers/leniero?label=follow&style=social)](https://www.github.com/leniero)
