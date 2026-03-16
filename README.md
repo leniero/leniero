@@ -3,30 +3,21 @@
 [![Website](https://img.shields.io/website?label=leandro-niero.com&style=for-the-badge&url=https%3A%2F%2Fleandro-niero.com)](https://www.leandro-niero.com)
 [![GitHub](https://img.shields.io/github/followers/leniero?label=follow&style=social)](https://www.github.com/leniero)
 
-I'm a Brazilian/Italian developer and designer based in London. I combine arts with software development to craft engaging digital experiences.
+I'm a Brazilian/Italian developer, designer and computational artist based in London. I build digital experiences across web, real-time 3D, interactive media and generative AI.
 
-👨‍💻 **Currently working on:**
-- [ANDROMEDA](https://github.com/leniero/Andromeda), a web app that captures and visualises emotional states.
-- [GMAG](https://www.leandro-niero.com/pages/gmag.html), an AI-powered art project that preserves and reinterprets Brazilian queer history.
+## 👨‍💻 Current projects
+- [**ANDROMEDA**](https://github.com/leniero/Andromeda) — a web app for capturing and visualising emotional states.
+- [**GMAG**](https://www.leandro-niero.com/pages/gmag.html) — an AI art project focused on Brazilian queer history.
+- [**faggotRevolutions**](https://www.leandro-niero.com/pages/faggot-revolutions.html) — a real-time 3D worldbuilding and game project in Unreal Engine 5.
 
-🎓 **Education:**
-- MA in Computational Arts from Goldsmiths University of London
-- PGD in Digital Design from Universidade Estadual de Londrina
-- BA in Social Communication/Advertising from Faculdade Pitágoras de Londrina
+## 🔧 Skills
+- **Languages:** Python, JavaScript, C, C++
+- **Web:** HTML, CSS, React, Node.js, Django
+- **Real-time 3D:** Unreal Engine 5, Blueprints, PCG, landscapes, splines
+- **AI:** Stable Diffusion, DreamBooth, Hugging Face Diffusers
+- **Tools:** Git, Figma, Adobe Creative Suite
 
-🔧 **Skills & Technologies:**
-- **Languages**: C, C++, Python, Java, Ruby
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap,  Django
-- **AI & Machine Learning**: Local Stable Diffusion, DreamBooth model training, Hugging Face's Diffusers library
-- **Tools**: Adobe Creative Suite, Figma, Arduino, Git
-
-🌱 **I'm learning:** More about AI and machine learning to further enhance my computational art and software development projects.
-
-💬 **Ask me about:** Computational art, full-stack development, and anything that blends technology with creativity.
-
-📫 **How to reach me:**
-- Email: hello@leandro-niero.com
-- LinkedIn: [leandroniero](https://www.linkedin.com/in/leandroniero)
-
-📄 **Fun fact:** I'm an avid enthusiast of sci-fi, experimental leftfield techno music, Queer Theory and AAA games.
-
+## 📫 Contact
+- [Portfolio](https://www.leandro-niero.com)
+- [LinkedIn](https://www.linkedin.com/in/leandroniero)
+- [Email](mailto:hello@leandro-niero.com)
